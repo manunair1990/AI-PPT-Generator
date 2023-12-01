@@ -5,7 +5,7 @@ Used python language to code and streamlit for GUI
 
 Use openai key
 
-##Requirements
+## Requirements
 
 openai = 0.28.1
 
